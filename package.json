@@ -1,0 +1,26 @@
+{
+  "name": "shape-wordle",
+  "version": "0.1.0",
+  "description": "Shape Wordle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivym/shape-wordle.git"
+  },
+  "keywords": [
+    "ShapeWordle"
+  ],
+  "author": "viv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivym/shape-wordle/issues"
+  },
+  "homepage": "https://github.com/vivym/shape-wordle#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "lru-cache": "^5.1.1"
+  }
+}
